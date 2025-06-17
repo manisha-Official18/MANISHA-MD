@@ -21,7 +21,7 @@
 
 
 ---
-<a href="https://ibb.co/7tBCw9HW"><img src="https://i.ibb.co/7tBCw9HW/20250527-030737.png" alt="20250527-030737" border="520"></a>
+<a href="https://ibb.co/7tBCw9HW"><img src="https://i.ibb.co/jkqfcpdM/20250527-030737.png" alt="20250527-030737" border="0"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> ᴍᴀɴɪꜱʜᴀ-ᴍᴅ </h1> 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
