@@ -47,7 +47,20 @@
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
       "value": "true"
+    },
+    
+    "ANTI_LINK": {
+      "description": "Make it true if you want bot auto remove group link.",
+      "required": true,
+      "value": "true"
+    },
+    
+    "ANTI_DEL_PATH": {
+       "description": "set 'same' if you want anti deleted message on same chat where it was deleted.",
+       "required": true,
+       "value": "log"
     }
+
 
   
 },
