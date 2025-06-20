@@ -55,6 +55,12 @@
       "value": "true"
     },
     
+     "ANTI_DELETE": {
+       "description": "anti deleted message on same chat where it was deleted.",
+       "required": true,
+       "value": "true"
+    }
+    
     "ANTI_DEL_PATH": {
        "description": "set 'same' if you want anti deleted message on same chat where it was deleted.",
        "required": true,

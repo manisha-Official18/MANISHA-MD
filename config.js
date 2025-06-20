@@ -13,6 +13,7 @@ module.exports = {
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log",
     DEV: process.env.DEV || "94721551183",
     ANTI_LINK: process.env.ANTI_LINK || "false",
+    ANTI_DELETE: process.env.ANTI_DELETE || "true",
     ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
