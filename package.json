@@ -2,9 +2,9 @@
   "name": "MANISHA-MD",
   "version": "1.0.0",
   "description": "A WHATSAPP BOT CREATED BY MANISHA CODER",
-  "main": "index.js",
+  "main": "config.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MANISHA-MD",
+    "start": "pm2 start config.js --deep-monitoring --attach --name MANISHA-MD",
     "stop": "pm2 stop MANISHA-MD",
     "restart": "pm2 restart MANISHA-MD"
   },
@@ -42,6 +42,6 @@
     "sequelize": "^6.37.5",
     "sqlite3": "^5.1.7",
     "denethdev-ytmp3": "1.0.3",
-    "node-7z": "3.0.0"
+    "dotenv": "latest"
   }
 }
