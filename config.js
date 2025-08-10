@@ -18,7 +18,7 @@ const settings = {
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true", // (true / false)
     ANTI_CALL: process.env.ANTI_CALL || "false", // (true / false)
     BAD_NUMBER_BLOCKER: process.env.BAD_NUMBER_BLOCKER || "false", // (true / false)
-    UNIFIED_PROTECTION: process.env.UNIFIED_PROTECTION || "kick" // "off" | "warn" | "kick" | "strict"
+    UNIFIED_PROTECTION: process.env.UNIFIED_PROTECTION || "kick" // (off / warn / kick / strict)
 };
 // =====================================================
 
