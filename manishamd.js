@@ -4,11 +4,9 @@ require('dotenv').config(); // Load .env if exists
 
 const settings = {
     SESSION_ID: process.env.SESSION_ID || "",//enter session id 
-    OWNER: process.env.OWNER || "", //bot owner number
-    DEV: process.env.DEV || "", //bot owner number
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "", //bot owner number
     MODE: process.env.MODE || "private", //bot mode (private/ public/ inbox/ group)
     PREFIX: process.env.PREFIX || ".", // bot command prefix
-    WELCOME: process.env.WELCOME || "true", //group 
     AUTO_REACT: process.env.AUTO_REACT || "false", // (true / false)
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox", // (inbox / log)
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // (true / false)
