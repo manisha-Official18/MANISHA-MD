@@ -41,8 +41,6 @@
     "yt-search":"2.13.1",
     "sequelize": "^6.37.5",
     "sqlite3": "^5.1.7",
-    "denethdev-ytmp3": "1.0.3",
-    "dotenv": "latest",
-    "darksadasyt-imgbb-scraper": "latest"
+    "denethdev-ytmp3": "1.0.3"
   }
 }
