@@ -9,7 +9,7 @@
     "restart": "pm2 restart MANISHA-MD"
   },
   "dependencies": {
-    "baileys": "7.0.0-rc.4",
+    "baileys": "github:manisha-Official18/baileys",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@xaviabot/fb-downloader": "1.0.14",
     "qrcode-terminal": "^0.12.0",
