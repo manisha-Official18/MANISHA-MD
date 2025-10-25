@@ -2,14 +2,16 @@
   "name": "MANISHA-MD",
   "version": "1.0.0",
   "description": "MANISHA-MD bot Powered By manaofc 😎",
-  "main": "start.js",
+  "main": "manaofc.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name MANISHA-MD",
+    "start": "pm2 start manaofc.js --deep-monitoring --attach --name MANISHA-MD",
     "stop": "pm2 stop MANISHA-MD",
     "restart": "pm2 restart MANISHA-MD"
   },
   "dependencies": {
     "baileys": "github:manisha-Official18/baileys",
+    "xnxx-scraper":"github:manisha-Official18/xnxx-scraper",
+    "xv-scraper":"github:manisha-Official18/xv-scraper",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@xaviabot/fb-downloader": "1.0.14",
     "qrcode-terminal": "^0.12.0",
